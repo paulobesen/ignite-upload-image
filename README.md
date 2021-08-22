@@ -33,7 +33,7 @@ React upload images permite que você selecione images e elas sejam hospedadas n
 - Clone o repositório
 - Instale as dependências com `yarn install`
 - Crie um arquivo .env.local com as keys abaixo:
-´´´
+```
 NEXT_PUBLIC_IMGBB_API_KEY=
 FAUNA_API_KEY=
 ```
